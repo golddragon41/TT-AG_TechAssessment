@@ -1,0 +1,4 @@
+**/node_modules/
+SmartContract/artifacts
+SmartContract/cache
+SmartContract/.env
